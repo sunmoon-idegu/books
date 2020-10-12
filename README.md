@@ -9,7 +9,7 @@ tags: Books
 |  開發  | The Miracle Morning                              | Hal Elrod                                       |  已讀  |                |                |                                 |
 |  開發  | The Untethered Soul: The Journey Beyond Yourself | Michael A. Singer                               |  已讀  |                |                |                                 |
 |  開發  | Principles                                       | Ray Dalio                                       | 正在讀 |                |                |                                 |
-|  開發  | How to Win Friends and Influence People          | Dale Carnegie                                   | 正在讀 |                |                |                                 |
+|  開發  | How to Win Friends and Influence People          | Dale Carnegie                                   | 正在讀 |   2020.10.12   |                |                                 |
 |  開發  | The 7 Habits of Highly Effective People          | Stephen R. Covey                                | 正在讀 |   2020.09.05   |                |                                 |
 |  開發  | The Prince                                       | Niccolò Machiavelli                             |  未讀  |                |                | 君王論                          |
 |  開發  | Becoming                                         | Michelle Obama                                  |  未讀  |                |                |                                 |
@@ -50,6 +50,7 @@ tags: Books
 |  經營  | 教練                                             | Eric Schmit, Jonathan Rosenberg, and ALan Eagle |  已讀  |   2020.08.30   |   2020.09.07   | Trillion Dollar Coach           |
 |  小說  | The Return of the Soldier                        | Rebecca West                                    |  未讀  |                |                |                                 |
 |  小說  | Three Men in a Boat                              | Jerome K. Jerome                                |  未讀  |                |                |                                 |
+|  小說  | 麥田捕手                                         | Jerome David Salinger                           | 正在讀 |   2020.10.12   |                | The Catcher In The Rye          |
 |  小說  | 生命中不能承受之輕                               | Milan Kundera                                   | 正在讀 |   2020.10.05   |                |                                 |
 |  小說  | 長日將盡                                         | Sir Kazuo Ishiguro<br>石黑一雄                  |  已讀  |                |                | The Remains of The Day          |
 |  小說  | 阿特拉斯聳聳肩                                   | Ayn Rand                                        |  已讀  |                |                | Altas Shrugged                  |
